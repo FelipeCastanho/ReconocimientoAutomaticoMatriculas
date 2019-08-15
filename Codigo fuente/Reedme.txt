@@ -1,0 +1,1 @@
+Para usar estos algoritmo primero debes ejecutar training_svm.py para generar el modelo y finalmente, usar este modelo en los demas ejecutables
